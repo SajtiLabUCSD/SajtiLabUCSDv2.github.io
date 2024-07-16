@@ -1,3 +1,5 @@
-theme: jekyll-theme-minimal
-title: [Sajti Lab at UC San Diego]
-description: [Our lab's primary interests are to understand the molecular and cellular mechanisms controlling the development of the neonatal innate immune system.]
+title: Sajti Lab at UC San Diego
+description:
+show_downloads: false
+google_analytics:
+theme: jekyll-theme-architect
