@@ -1,1 +1,1 @@
-# SajtiLabUCSD.github.io
+# Sajti Lab at UC San Diego
