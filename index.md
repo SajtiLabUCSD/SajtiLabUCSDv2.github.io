@@ -1,9 +1,8 @@
 ---
-layout: homepage
+layout: default
+title:  'Sajti Lab Homepage'
 ---
 
-## About Us
-
-Sajti lab is based on UC San Diego.
-
-## Research Interests
+<p>
+The Sajti Lab is located at the University of California San Diego. 
+</p>
