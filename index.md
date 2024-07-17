@@ -4,5 +4,5 @@ title:  'Sajti Lab Homepage'
 ---
 
 <p>
-The Sajti Lab is located at the University of California San Diego. 
+The Sajti Lab is located at the University of California San Diego. The lab's primary interests are to understand the molecular and cellular mechanisms controlling the development of the neonatal innate immune system. Current projects focus on determining the genetic and epigenetic signature of specialized innate immune cells in the neonatal lung and brain.  To understand the relative contribution of various subtypes of innate immune cells to premature birth related lung disease and impaired neurodevelopmental outcomes, we employ genome-wide approaches and computational analyses to identify transcriptional mechanisms unique to each cell type. By elucidating disease and cell type specific gene regulatory networks we hope to develop new therapeutic targets.​
 </p>
