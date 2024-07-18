@@ -15,3 +15,16 @@ The Sajti Lab is located at the University of California San Diego. The lab's pr
 	  	</p>
 	</div>
 </div>
+<h2 id="publications" style="margin: 2px 0px -15px;">Publications</h2>
+<div class="publications">
+<ol class="bibliography">
+<li>
+<div class="pub-row">
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+     
+    <img src="Sajti2020_Figure_1.png" class="Figure 1" style="width=100;height=40%" />   
+    <abbr class="badge">MICCAI</abbr>
+    
+  </div>
+</div>
+</li>
