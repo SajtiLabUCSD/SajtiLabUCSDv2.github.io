@@ -16,6 +16,19 @@ The Sajti Lab is located at the University of California San Diego. The lab's pr
 	</div>
 </div>
 <h2 id="publications" style="margin: 2px 0px -15px;">Publications</h2>
+<div class="container">
+  <div class="row">
+    <div class="col-sm">
+      One of three columns
+    </div>
+    <div class="col-sm">
+      One of three columns
+    </div>
+    <div class="col-sm">
+      One of three columns
+    </div>
+  </div>
+</div>
 
 <div class="row">
 	<div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">     
