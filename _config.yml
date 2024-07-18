@@ -7,5 +7,12 @@ remote_theme: vaibhavvikas/jekyll-theme-minimalistic
 title: Sajti lab at UC San Diego
 description: We explore the development of the neonatal innate immune system.
 
-sidebar:
-  - getting-started
+navigation:
+  - name: Readme
+    link: ./README.md
+  #  sublist:
+  #    - name: Image
+  #      link: ./index.html#small-image
+  # - name: Another Page
+  #  link: ./another-page.html
+  # - ...
