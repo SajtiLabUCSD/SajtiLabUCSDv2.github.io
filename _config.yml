@@ -1,4 +1,4 @@
-#remote_theme: pages-themes/cayman@v0.2.0
+# remote_theme: pages-themes/cayman@v0.2.0
 # remote_theme: zendesk/jekyll-theme-zendesk-garden@main
 remote_theme: vaibhavvikas/jekyll-theme-minimalistic
 #plugins:
@@ -8,8 +8,8 @@ title: Sajti lab at UC San Diego
 description: We explore the development of the neonatal innate immune system.
 
 navigation:
-  - name: Readme
-    link: ./README.md
+  - name: Dr. Eniko Sajti's page
+    link: https://profiles.ucsd.edu/eniko.sajti
   #  sublist:
   #    - name: Image
   #      link: ./index.html#small-image
