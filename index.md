@@ -1,6 +1,8 @@
 ---
-layout: default
-title:  'Sajti Lab Homepage'
+layout: page
+title: Sajti Lab
+tagline: exploring the neonatal innate immune system
+description: 
 ---
 
 <p>
