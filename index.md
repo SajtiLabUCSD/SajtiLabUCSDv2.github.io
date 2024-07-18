@@ -16,8 +16,7 @@ The Sajti Lab is located at the University of California San Diego. The lab's pr
 	</div>
 </div>
 <h2 id="publications" style="margin: 2px 0px -15px;">Publications</h2>
-<div class="publications">
-<li>
+
 <div class="row">
 	<div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">     
 		<img src="Sajti2020_Figure_1.png" class="Figure 1" width="154" height="196" />    
@@ -26,8 +25,6 @@ The Sajti Lab is located at the University of California San Diego. The lab's pr
 		<div class="title"><a href="https://www.nature.com/articles/s41590-019-0582-z">Transcriptomic and epigenetic mechanisms underlying myeloid diversity in the lung</a></div>
 		<div class="author">Eniko Sajti*, Verena M. Link, Zhengyu Ouyang, Nathanael J. Spann, Emma Westin, Casey E. Romanoski, Gregory J. Fonseca, Lawrence S. Prince & Christopher K. Glass (*Corresponding author)</div>     
 	</div>
-</div>
-	</li>
 </div>
 
 
