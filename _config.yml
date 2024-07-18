@@ -5,5 +5,5 @@
 title: Sajti lab at UC San Diego
 description: We explore the development of the neonatal innate immune system.
 
-header_pages:
-   - nav.html
+sidebar:
+  - getting-started
