@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: homepage
 title: Sajti Lab
 tagline: exploring the neonatal innate immune system
 description: 
