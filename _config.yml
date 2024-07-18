@@ -16,3 +16,6 @@ navigation:
   # - name: Another Page
   #  link: ./another-page.html
   # - ...
+
+JB :
+  version : 0.3.0
