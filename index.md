@@ -1,5 +1,5 @@
 ---
-layout: homepage
+layout: default
 title:  'Sajti Lab Homepage'
 ---
 
