@@ -22,7 +22,7 @@ The Sajti Lab is located at the University of California San Diego. The lab's pr
 <div class="pub-row">
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 45px;padding-left: 45px;">
      
-    <img src="Sajti2020_Figure_1.png" class="Figure 1" width="120" height="120" />   
+    <img src="Sajti2020_Figure_1.png" class="Figure 1" width="154" height="196" />   
     <abbr class="badge"></abbr>
     
   </div>
