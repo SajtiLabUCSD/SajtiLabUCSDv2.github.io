@@ -6,8 +6,8 @@ remote_theme: yaoyao-liu/minimal-light
 #- jekyll-remote-theme # add this line to the plugins list if you already have one
 #show_downloads: false
 enable-grid-classes: true
-title: Sajti lab at UC San Diego
-description: We explore the development of the neonatal innate immune system.
+title: Welcome!
+# description: We explore the development of the neonatal innate immune system.
 
 navigation:
   - name: Dr. Eniko Sajti's page
