@@ -2,12 +2,13 @@
 layout: homepage
 ---
 
-## Welcome to Sajti lab
+## Welcome to Sajti lab!
 
-Sajti lab is located at UC San Diego.
+We are located at UC San Diego.
 
 ## Research Interests
 
 We explore the molecular and cellular mechanisms controlling the development of the neonatal innate immune system
 
+<img src="4_subsets_of_AM.png" >
 ## News
