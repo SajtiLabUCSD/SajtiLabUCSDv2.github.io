@@ -9,6 +9,11 @@ remote_theme: yaoyao-liu/minimal-light
 # title: !
 # description: We explore the development of the neonatal innate immune system.
 
+title: ""
+position: ""
+affiliation: ""
+email: ""
+
 avatar: ./lab_logo.png
 
 # navigation:
