@@ -2,9 +2,9 @@
 layout: homepage
 ---
 
-## About Us
+## Welcome to Sajti lab
 
-Sajti lab is located at UC San Diego
+Sajti lab is located at UC San Diego.
 
 ## Research Interests
 
