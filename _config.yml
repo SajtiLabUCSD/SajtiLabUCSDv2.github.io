@@ -5,19 +5,21 @@ remote_theme: yaoyao-liu/minimal-light
 #plugins:
 #- jekyll-remote-theme # add this line to the plugins list if you already have one
 #show_downloads: false
-enable-grid-classes: true
-title: Welcome!
+# enable-grid-classes: true
+# title: !
 # description: We explore the development of the neonatal innate immune system.
 
-navigation:
-  - name: Dr. Eniko Sajti's page
-    link: https://profiles.ucsd.edu/eniko.sajti
+avatar: ./4_subsets_of_AM.png
+
+# navigation:
+#   - name: Dr. Eniko Sajti's page
+#     link: https://profiles.ucsd.edu/eniko.sajti
   #  sublist:
   #    - name: Image
   #      link: ./index.html#small-image
   # - name: Another Page
   #  link: ./another-page.html
   # - ...
-
-JB :
-  version : 0.3.0
+#
+# JB :
+#  version : 0.3.0
