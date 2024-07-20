@@ -1,5 +1,8 @@
 ---
 layout: homepage
+title: Sajti Lab
+nav: index People Publications
+toc: true
 ---
 
 ## Welcome to Sajti lab!
