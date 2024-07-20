@@ -19,7 +19,7 @@ avatar: ./lab_logo.png
 navigation:
   - text: Documentation
     internal: true
-    url: ./
+    url: ./docs
 
 
 # navigation:
