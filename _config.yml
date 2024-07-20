@@ -16,6 +16,12 @@ email: ""
 
 avatar: ./lab_logo.png
 
+navigation:
+  - text: Documentation
+    internal: true
+    url: ./
+
+
 # navigation:
 #   - name: Dr. Eniko Sajti's page
 #     link: https://profiles.ucsd.edu/eniko.sajti
